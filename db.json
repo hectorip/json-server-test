@@ -1,0 +1,103 @@
+{
+    "propiedades": [
+        {"id": 1, "address": "General Antonio León 65bis", "rented": true, "rented_from": "2017-12-01" },
+        {
+            "id": 2,
+            "address": "Público Múzquiz",
+            "rented": true,
+            "rented_from": "2017-01-02",
+            "statement": [
+                {
+                    "id": 1,
+                    "month": "Mayo",
+                    "balance": "13150",
+                    "payments": [
+                        {
+                            "id": 1,
+                            "concept": "Mantenimiento",
+                            "amount": "300.00",
+                            "done": true,
+                            "date": "2018-05-05"
+                        },
+                        {
+                            "id": 2,
+                            "concept": "Comisiones",
+                            "amount": "150.00",
+                            "done": true,
+                            "date": "2018-05-05"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "month": "April",
+                    "balance": "13,500",
+                    "payments": [
+                        {
+                            "id": 1,
+                            "concept": "Mantenimiento",
+                            "amount": "300.00",
+                            "done": true,
+                            "date": "2018-05-05"
+                        },
+                        {
+                            "id": 2,
+                            "concept": "Comisiones",
+                            "amount": "150.00",
+                            "done": true,
+                            "date": "2018-05-05"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "statements": [
+        {
+            "id": 1,
+            "month": "Mayo",
+            "total_rent": "13500",
+            "total_payments": "350",
+            "balance": "13150",
+            "payments": [
+                {
+                    "id": 1,
+                    "concept": "Mantenimiento",
+                    "amount": "300.00",
+                    "done": true,
+                    "date": "2018-05-05"
+                },
+                {
+                    "id": 2,
+                    "concept": "Comisiones",
+                    "amount": "150.00",
+                    "done": true,
+                    "date": "2018-05-05"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "month": "April",
+            "balance": "13,500",
+            "total_rent": "13500",
+            "total_payments": "350",
+            "payments": [
+                {
+                    "id": 1,
+                    "concept": "Mantenimiento",
+                    "amount": "300.00",
+                    "done": true,
+                    "date": "2018-05-05"
+                },
+                {
+                    "id": 2,
+                    "concept": "Comisiones",
+                    "amount": "150.00",
+                    "done": true,
+                    "date": "2018-05-05"
+                }
+            ]
+        }
+    ]
+}
