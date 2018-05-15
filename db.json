@@ -17,14 +17,16 @@
                             "concept": "Mantenimiento",
                             "amount": "300.00",
                             "done": true,
-                            "date": "2018-05-05"
+                            "date": "2018-05-05",
+                            "ticket": "http://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf"
                         },
                         {
                             "id": 2,
                             "concept": "Comisiones",
                             "amount": "150.00",
                             "done": true,
-                            "date": "2018-05-05"
+                            "date": "2018-05-05",
+                            "ticket": "http://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf"
                         }
                     ]
                 },
@@ -38,14 +40,16 @@
                             "concept": "Mantenimiento",
                             "amount": "300.00",
                             "done": true,
-                            "date": "2018-05-05"
+                            "date": "2018-05-05",
+                            "ticket": "http://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf"
                         },
                         {
                             "id": 2,
                             "concept": "Comisiones",
                             "amount": "150.00",
                             "done": true,
-                            "date": "2018-05-05"
+                            "date": "2018-05-05",
+                            "ticket": "http://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf"
                         }
                     ]
                 }
@@ -65,14 +69,16 @@
                     "concept": "Mantenimiento",
                     "amount": "300.00",
                     "done": true,
-                    "date": "2018-05-05"
+                    "date": "2018-05-05",
+                    "ticket": "http://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf"
                 },
                 {
                     "id": 2,
                     "concept": "Comisiones",
                     "amount": "150.00",
                     "done": true,
-                    "date": "2018-05-05"
+                    "date": "2018-05-05",
+                    "ticket": "http://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf"
                 }
             ]
         },
@@ -88,14 +94,16 @@
                     "concept": "Mantenimiento",
                     "amount": "300.00",
                     "done": true,
-                    "date": "2018-05-05"
+                    "date": "2018-05-05",
+                    "ticket": "http://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf"
                 },
                 {
                     "id": 2,
                     "concept": "Comisiones",
                     "amount": "150.00",
                     "done": true,
-                    "date": "2018-05-05"
+                    "date": "2018-05-05",
+                    "ticket": "http://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf"
                 }
             ]
         }
